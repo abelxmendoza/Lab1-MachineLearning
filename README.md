@@ -79,3 +79,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://chat.openai.com/c/LICENSE) file for details.
+
+## Documentation
+
+[https://docs.google.com/document/d/1MdECaPc7KehWde0u5QqZCwCfdUIh41TMXJCzqwRaiwc/edit](https://docs.google.com/document/d/1MdECaPc7KehWde0u5QqZCwCfdUIh41TMXJCzqwRaiwc/edit)
